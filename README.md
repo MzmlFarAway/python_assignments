@@ -11,3 +11,8 @@ The program takes an integer from the user and checks if it is even or odd. It u
 # TASK 2:
 The program sums the integer in between 1 to 50, and then prints the output. It uses a for loop and range 
 function.
+# ASSIGNMENT 3
+# TASK 1
+The program takes a number from the user as an imput and calculates the factorial of the entered number using a function containing a loop.
+# TASK 2 
+The program takes the number from the user as an input and calculates the square root, logarithm, and the sine in radians using the math module.
