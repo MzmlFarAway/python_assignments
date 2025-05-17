@@ -6,7 +6,6 @@ square_root = math.sqrt(num)
 natural_log = math.log(num)
 sine_value = math.sin(num)
 
-
-print(f"Square root: {num}: {square_root}")
-print(f"Logarithm: {num}: {natural_log}")
-print(f"Sine: {num} (in radians): {sine_value}")
+print("Square root: " + str(num) + ": " + str(square_root))
+print("Logarithm: " + str(num) + ": " + str(natural_log))
+print("Sine: " + str(num) + " (in radians): " + str(sine_value))
